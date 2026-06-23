@@ -1,0 +1,60 @@
+{
+  "length": ["very short", "short", "average", "long", "very long"],
+  "thickness": [
+    "very thin",
+    "thin",
+    "slender",
+    "average",
+    "sturdy",
+    "thick",
+    "muscular"
+  ],
+  "handSize": [
+    "very small",
+    "small",
+    "average",
+    "large",
+    "very large",
+    "delicate"
+  ],
+  "fingerLength": [
+    "very short",
+    "short",
+    "average",
+    "long",
+    "very long",
+    "uneven"
+  ],
+  "nails": [
+    "short",
+    "trimmed",
+    "long",
+    "broken",
+    "bitten",
+    "manicured",
+    "dirty",
+    "polished"
+  ],
+  "features": [
+    "calluses",
+    "scars",
+    "fresh scars",
+    "amputated finger",
+    "partial amputation",
+    "missing fingers",
+    "prosthetic hand",
+    "prosthetic forearm",
+    "tattoos",
+    "burn scars",
+    "veiny",
+    "freckled",
+    "birthmark",
+    "pierced",
+    "tremor",
+    "stiff joints",
+    "webbed fingers",
+    "clubbed fingers",
+    "numbness",
+    "surgical scars"
+  ]
+}
