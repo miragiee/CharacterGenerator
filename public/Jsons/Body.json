@@ -1,0 +1,58 @@
+{
+  "shoulders": {
+    "size": [
+      "very narrow",
+      "narrow",
+      "average",
+      "broad",
+      "very broad",
+      "square"
+    ],
+    "structure": [
+      "sloping",
+      "straight",
+      "rounded",
+      "muscular",
+      "delicate",
+      "proportionate"
+    ]
+  },
+  "chest": {
+    "size": ["flat", "small", "medium", "large", "very large", "full"],
+    "structure": [
+      "perky",
+      "pendulous",
+      "firm",
+      "sagging",
+      "rounded",
+      "asymmetrical",
+      "cleavage-pronounced"
+    ]
+  },
+  "waist": {
+    "size": ["very small", "small", "average", "wide", "large", "defined"],
+    "structure": ["toned", "soft", "flabby", "tucked", "protruding", "flat"]
+  },
+  "hips": {
+    "size": ["narrow", "average", "wide", "very wide", "rounded", "flat"],
+    "structure": ["pear-shaped", "straight", "curvy", "prominent", "smooth"]
+  },
+  "abdomen": {
+    "size": ["flat", "slight", "rounded", "protruding", "toned", "soft"],
+    "structure": [
+      "defined (visible abs)",
+      "soft",
+      "flabby",
+      "scarred",
+      "smooth"
+    ]
+  },
+  "buttocks": {
+    "size": ["flat", "small", "average", "large", "very large", "round"],
+    "structure": ["perky", "sagging", "firm", "muscular", "soft", "rounded"]
+  },
+  "back": {
+    "size": ["narrow", "average", "broad", "muscular"],
+    "structure": ["straight", "arched", "hunched", "muscular", "scarred"]
+  }
+}
