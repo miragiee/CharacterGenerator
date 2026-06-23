@@ -1,0 +1,67 @@
+{
+  "length": [
+    "very short (legs shorter than average proportion)",
+    "short",
+    "average",
+    "long",
+    "very long (legs noticeably longer relative to torso)"
+  ],
+  "footSize": [
+    "very small",
+    "small",
+    "average",
+    "large",
+    "very large",
+    "narrow",
+    "wide",
+    "high instep",
+    "flat (low arch)",
+    "high arch"
+  ],
+  "thighs": {
+    "size": ["very thin", "thin", "average", "thick", "very thick", "muscular"],
+    "structure": [
+      "toned",
+      "soft",
+      "flabby",
+      "scarred",
+      "cellulite",
+      "hairy",
+      "smooth",
+      "wide-set"
+    ]
+  },
+  "calves": {
+    "size": ["slender", "average", "defined", "muscular", "bulky"],
+    "structure": [
+      "toned",
+      "soft",
+      "shapely",
+      "knobbly (bony)",
+      "scarred",
+      "hairy"
+    ]
+  },
+  "features": [
+    "scars",
+    "varicose veins",
+    "tattoos",
+    "stretch marks",
+    "amputated toe",
+    "partial leg amputation",
+    "prosthetic leg",
+    "lame / limp",
+    "freckled",
+    "birthmark",
+    "calluses on feet",
+    "bunions",
+    "flat feet",
+    "high arches",
+    "pierced (toe)",
+    "hairy",
+    "shaved",
+    "suntanned",
+    "pale",
+    "surgical scars"
+  ]
+}
