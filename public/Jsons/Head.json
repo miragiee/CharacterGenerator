@@ -1,0 +1,144 @@
+{
+  "headShape": ["oval", "round", "square", "triangular"],
+  "face": {
+    "shape": ["narrow", "wide", "round"],
+    "skin": {
+      "color": [
+        "white",
+        "black",
+        "red",
+        "orange",
+        "yellow",
+        "green",
+        "blue",
+        "purple",
+        "cyan",
+        "magenta",
+        "beige"
+      ],
+      "scars": [
+        "left eye vertical",
+        "right eye vertical",
+        "right eye diagonal",
+        "left eye diagonal",
+        "left cheek horizontal",
+        "right cheek horizontal",
+        "left cheek vertical",
+        "right cheek vertical",
+        "right cheek diagonal",
+        "left cheek diagonal"
+      ],
+      "tattoos": {
+        "position": [
+          "Forehead Center",
+          "Left Forehead",
+          "Right Forehead",
+          "Between Eyebrows",
+          "Left Temple",
+          "Right Temple",
+          "Under Left Eye",
+          "Under Right Eye",
+          "Left Cheek",
+          "Right Cheek"
+        ],
+        "name": [
+          "Tribal Lines",
+          "Teardrop",
+          "Cross on Forehead",
+          "Barbed Wire",
+          "Skull Mark",
+          "Star Under Eye",
+          "Lightning Bolt",
+          "Snake Eye",
+          "Spider Web Corner Eye",
+          "Clown Smile",
+          "Broken Glass Pattern",
+          "Rose Under Eye",
+          "Dragon Scale Pattern",
+          "Script Across Cheek",
+          "Roman Numerals Forehead",
+          "Anchor Under Eye",
+          "Flame Marks",
+          "Spade Symbol",
+          "Heart Tear",
+          "Skull Eye Patch",
+          "Barcode on Neck",
+          "Band Across Eyes",
+          "Angel Wings on Cheeks",
+          "Devil Horn Marks",
+          "Crown Forehead",
+          "Snake Across Temple",
+          "Clock Face",
+          "Moon Crescent",
+          "Sun Symbol Forehead",
+          "Blade Slash Marks",
+          "Chain Pattern",
+          "Feather Under Eye",
+          "Eye Symbol Forehead",
+          "Skull Nose Bridge",
+          "Geometric Lines",
+          "Diamond Shape",
+          "Broken Chain",
+          "Bar Code Lines",
+          "Blood Drop Tattoo",
+          "Lightning Under Eye",
+          "Raven Silhouette",
+          "Spider on Temple",
+          "Grim Reaper Face",
+          "Mask Pattern",
+          "Sharp Triangle Marks",
+          "Target Symbol",
+          "Wave Pattern",
+          "Eye Tear Trail",
+          "Blackout Half Face",
+          "Map Coordinates"
+        ]
+      }
+    }
+  },
+  "eyes": {
+    "form": ["almond", "round", "narrow", "large", "small"],
+    "size": ["very small", "small", "medium", "large", "huge"],
+    "color": {
+      "primary": ["brown", "blue", "green", "gray", "hazel"],
+      "secondary": ["brown", "blue", "green", "gray", "hazel"],
+      "heterochromia": ["none", "partial", "complete"]
+    },
+    "extras": [
+      "glowing",
+      "vertical pupil",
+      "round pupil",
+      "no pupil",
+      "artificial eye"
+    ]
+  },
+  "eyebrows": {
+    "color": ["Black", "Brown", "Blonde", "Red", "Gray", "White"],
+    "thickness": ["Very thin", "Thin", "Medium", "Thick", "Very thick"],
+    "density": ["Sparse", "Medium", "Dense"],
+    "shape": [
+      "Straight",
+      "Soft arch",
+      "High arch",
+      "Rounded",
+      "Angled",
+      "Sharp arch"
+    ]
+  },
+  "nose": {
+    "length": ["short", "medium", "long"],
+    "width": ["narrow", "medium", "wide"],
+    "bridgeShape": ["straight", "curved", "downturned", "upturned"],
+    "tipShape": ["rounded", "pointed", "bulbous", "narrow"]
+  },
+  "mouth": {
+    "lips": ["thin", "medium", "full"],
+    "teeth": ["straight", "crooked", "sharp", "fangs"]
+  },
+  "ears": {
+    "size": ["small", "medium", "large"],
+    "shape": ["rounded", "pointed", "oval", "flared"],
+    "length": ["short", "medium", "long"],
+    "features": ["normal", "torn", "pierced", "elven", "horned"]
+  }
+}
