@@ -1,0 +1,14 @@
+{
+    "pitch": ["low", "medium", "high"],
+    "tibmre": [
+        "soprano",
+        "mezzo-soprano",
+        "contralto",
+        "tenor",
+        "baritone",
+        "bass"
+    ],
+    "loudness": ["silent", "normal", "loud"],
+    "manner": ["formal", "neutral", "informal"],
+    "accent": ["russian", "british", "american", "scottish", "japanese"]
+}

@@ -1,0 +1,4 @@
+{
+    "type": ["angel", "demon", "raven", "mosquito", "stone"],
+    "size":["small", "medium", "big", "giant"]
+}
