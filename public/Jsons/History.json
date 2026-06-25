@@ -1,0 +1,39 @@
+[
+	{
+		"name": "The Poor",
+		"description": "You were born into crushing poverty and learned to survive on scraps and odd jobs. Hunger and hard work shaped your childhood and taught you the value of every coin. You watched others prosper while you stitched, carried, and begged to get by. Despite the hardships, you developed resilience, resourcefulness, and a sharp eye for opportunity. Those early trials left you wary of luxury and loyal to those who share your struggle."
+	},
+	{
+		"name": "Child of a Prostitute",
+		"description": "You grew up in the shadows of the city’s seedier districts, where your parent’s trade was both a livelihood and a stigma. Neighbors judged you before they knew your name, and you learned to move with caution and cleverness. Intimacy and danger blurred together in stories whispered at night, giving you a strange education in human needs and compromises. You learned negotiation, the value of secrets, and how to read people quickly. Those lessons made you pragmatic, guarded, and surprisingly empathetic."
+	},
+	{
+		"name": "Child of the Executioner",
+		"description": "You spent your youth near the gallows and the blade, where life and death were measured in routine. People gave you a wide berth out of fear or superstition, leaving you isolated but oddly observant. You grew used to grim tasks, learned to handle tools and keep your hands steady under pressure. The world’s darker truths were no secret to you, and you developed an economy of words and a steady temperament. Those who know your family respect the role you inherited, even if others whisper."
+	},
+	{
+		"name": "Child of a King",
+		"description": "You were raised within gilded halls and watched power play out like a lesson in theater. Tutors taught you rhetoric, strategy, and the nuances of courtly behavior from an early age. Privilege opened doors, but it also brought scrutiny, duty, and the constant weighing of alliances. You learned to project calm, conceal ambition, and discern threats beneath smiles. The crown’s shadow shaped your sense of responsibility and your appetite for influence."
+	},
+	{
+		"name": "Noble",
+		"description": "You belong to a family of estate and title, groomed to uphold honor and tradition. From an early age you were instructed in etiquette, management, and the art of patronage. You learned to lead retainers, settle disputes, and pursue alliances through marriage or diplomacy. Wealth and duty tempered your freedoms, but also ensured education and status. You move confidently in halls of power and know how to turn social capital to advantage."
+	},
+	{
+		"name": "Merchant",
+		"description": "You grew up among ledgers, trade routes, and bargaining tables, where profit and reputation were everything. Your childhood was a classroom of contracts, currencies, and clever deals, taught by relatives or stern employers. Travel and negotiation honed your instincts for risk, timing, and persuasion. You understand the value of goods and information, and you can spot a liar as easily as a bargain. Commerce gave you independence and a taste for calculated ventures."
+	},
+	{
+		"name": "Warrior",
+		"description": "You were raised with steel in hand and discipline in your bones, shaped by training, drills, and combat. Camps and barracks replaced playgrounds, and your mentors taught you tactics, endurance, and loyalty. Battle taught you the cost of mistakes and the clarity of purpose under fire. You carry the scars and the pride of service, and you know how to lead or follow when fate demands it. The world sees you as reliable and dangerous in equal measure."
+	},
+	{
+		"name": "Bandit",
+		"description": "You learned to take by force or cunning on roads and in hidden camps, surviving where law and order were thin. Theft, ambush, and escape became second nature, and trust was a rare commodity. You travel light, move fast, and read danger as skillfully as any map. The morals you live by are practical rather than lawful, and loyalty to your crew often outranks wider rules. Your life is a gamble, but it has made you adaptable and fiercely independent."
+	},
+	{
+		"name": "Bounty Hunter",
+		"description": "You grew into a hunter of people, tracking targets for coin across city and wilds alike. Discipline, patience, and a talent for disguise or interrogation are your daily tools. You learned to follow trails others miss and to close on a mark without hesitation. The work taught you to separate emotion from duty and to plan several moves ahead. You live by contracts and reputation, and your skills are both feared and sought after."
+	}
+]
+

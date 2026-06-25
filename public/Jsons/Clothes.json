@@ -1,0 +1,106 @@
+{
+	"top": [
+		{"name": "Nothing", "materials": ["none","cotton","linen","silk","wool","leather","velvet","denim","synthetic","lace"]},
+		{"name": "Shirt", "materials": ["cotton","linen","silk","polyester","linen-cotton","broadcloth","cambric","muslin","lace","embroidered silk"]},
+		{"name": "Jacket", "materials": ["wool","leather","cotton","tweed","suede","denim","canvas","velvet","brocade","synthetic blend"]},
+		{"name": "Armor", "materials": ["steel plate","chainmail","studded leather","reinforced leather","bronze","iron","scale mail","lamellar","composite","mithril"]},
+		{"name": "Cloak", "materials": ["wool","velvet","leather","fur","silk","linen","broadcloth","waterproofed canvas","suede","embroidered brocade"]},
+		{"name": "Tunic", "materials": ["linen","wool","cotton","silk blend","jersey","twill","canvas","brocade","felt","embroidered cotton"]},
+		{"name": "Vest", "materials": ["leather","wool","cotton","tweed","silk","suede","denim","quilted cotton","brocade","synthetic insulation"]},
+		{"name": "Robe", "materials": ["silk","velvet","wool","linen","brocade","satin","cotton","felt","embroidered silk","suede"]},
+		{"name": "Doublet", "materials": ["wool","linen","silk","leather","brocade","canvas","velvet","suede","twill","embroidered cotton"]},
+		{"name": "Tabard", "materials": ["linen","wool","canvas","brocade","silk","cotton","velvet","leather trim","embroidered cloth","banner-cloth"]}
+	],
+	"bottom": [
+		{"name": "Nothing", "materials": ["none","cotton","linen","silk","wool","leather","denim","synthetic","lace","canvas"]},
+		{"name": "Pants", "materials": ["cotton","linen","wool","denim","twill","canvas","leather","velvet","suede","synthetic blend"]},
+		{"name": "Skirt", "materials": ["cotton","linen","silk","velvet","brocade","lace","wool","denim","satin","embroidered cloth"]},
+		{"name": "Shorts", "materials": ["cotton","linen","denim","canvas","twill","synthetic","jersey","leather","suede","corduroy"]},
+		{"name": "Breeches", "materials": ["wool","linen","leather","velvet","cotton","broadcloth","suede","twill","denim","embroidered wool"]},
+		{"name": "Leggings", "materials": ["leather","wool","cotton","linen","jersey","synthetic stretch","suede","velvet","lace","quilted fabric"]},
+		{"name": "Kilt", "materials": ["wool tartan","wool","linen","cotton","leather trim","brocade","heavy twill","felt","canvas","embroidered wool"]},
+		{"name": "Trousers", "materials": ["wool","cotton","linen","denim","twill","canvas","suede","corduroy","synthetic blend","velvet"]},
+		{"name": "Sarong", "materials": ["cotton","linen","silk","batik","satin","viscose","rayon","chiffon","brocade","lightweight wool"]},
+		{"name": "Dress Bottom", "materials": ["silk","cotton","linen","velvet","brocade","lace","satin","chiffon","tulle","organza"]}
+	],
+	"footwear": [
+		{"name": "Nothing", "materials": ["none","leather","suede","canvas","rubber","wood","cloth","velvet","synthetic","metal"]},
+		{"name": "Boots", "materials": ["leather","suede","reinforced leather","rubber-soled leather","treated leather","canvas-reinforced","studded leather","chain-reinforced","insulated leather","waterproof leather"]},
+		{"name": "Shoes", "materials": ["leather","suede","canvas","cloth","velvet","polished leather","patent leather","linen","synthetic","embroidered cloth"]},
+		{"name": "Sandals", "materials": ["leather","rope","wooden sole","braided leather","canvas","rubber","woven fiber","suede","treated hide","recycled material"]},
+		{"name": "Moccasins", "materials": ["soft leather","deerskin","suede","woven leather","cloth lining","beaded leather","embroidered leather","felt sole","reinforced leather","braided trim"]},
+		{"name": "Clogs", "materials": ["wood","leather strap","treated wood","painted wood","studded leather","rubber sole","canvas strap","suede strap","coated wood","bamboo"]},
+		{"name": "Heeled Shoes", "materials": ["leather","velvet","suede","patent leather","silk","brocade","embellished leather","synthetic","polished wood","metal heel"]},
+		{"name": "Riding Boots", "materials": ["reinforced leather","polished leather","suede","treated hide","studded leather","lined leather","oiled leather","waxed leather","synthetic reinforcement","chain-reinforced"]},
+		{"name": "Greaves", "materials": ["steel","bronze","iron","leather-lined metal","reinforced leather","scale","lamellar","composite","mithril","studded metal"]},
+		{"name": "Thigh-high Boots", "materials": ["leather","suede","treated leather","velvet","lace-up leather","reinforced leather","patent leather","elastic blend","synthetic leather","embossed leather"]}
+	],
+	"accessories": [
+		{"name": "Nothing", "materials": ["none","leather","cloth","metal","gold","silver","silk","velvet","wood","bone"]},
+		{"name": "Cloak", "materials": ["wool","velvet","leather","fur","silk","linen","brocade","waterproofed canvas","suede","embroidered cloth"]},
+		{"name": "Gloves", "materials": ["leather","suede","linen","silk","wool","cotton","studded leather","chainmail-lined","embroidered fabric","glazed leather"]},
+		{"name": "Glasses", "materials": ["glass","metal frame","bone frame","wood frame","horn","brass","silver frame","gold frame","obsidian lens","crystal lens"]},
+		{"name": "Mask", "materials": ["leather","metal","cloth","wood","ceramic","bone","venetian glass","gold leaf","lacquered wood","papier-mache"]},
+		{"name": "Belt", "materials": ["leather","woven cloth","braided leather","metal chain","fabric sash","studded leather","velvet","embossed leather","canvas","rope"]},
+		{"name": "Hat", "materials": ["felt","straw","wool","silk","leather","felted wool","leather trim","broadcloth","velvet","straw braid"]},
+		{"name": "Scarf", "materials": ["silk","wool","linen","cotton","cashmere","velvet","satin","chiffon","lace","knitted wool"]},
+		{"name": "Jewelry", "materials": ["gold","silver","bronze","beads","gems","ivory","bone","crystal","glass beads","enamel"]},
+		{"name": "Satchel", "materials": ["leather","canvas","linen","woven reed","suede","treated hide","studded leather","embossed leather","brocade","synthetic"]}
+	],
+	"underwear_torso": [
+		{"name": "Nothing", "materials": ["none","cotton","linen","silk","lace","synthetic","jersey","modal","bamboo fabric","thermal wool"]},
+		{"name": "Undershirt", "materials": ["cotton","linen","jersey","silk","modal","thermal wool","synthetic blend","merino wool","bamboo","ribbed cotton"]},
+		{"name": "Bra", "materials": ["cotton","silk","lace","synthetic","linen","leather straps","embellished lace","satin","mesh","elastic blend"]},
+		{"name": "Corset", "materials": ["stiffened linen","leather","brocade","whalebone (reinforced)","steel busk","cotton canvas","satin","velvet","embossed leather","laminated fabric"]},
+		{"name": "Tank Top", "materials": ["cotton","jersey","linen","synthetic stretch","ribbed cotton","modal","bamboo","polyester","silk blend","thermal knit"]},
+		{"name": "Lingerie", "materials": ["silk","lace","satin","mesh","cotton","chiffon","velvet","embellished lace","embroidered silk","elastic blend"]},
+		{"name": "Padded Vest", "materials": ["quilted cotton","leather","wool fill","synthetic fill","down","linen","canvas","suede","velvet","reinforced twill"]},
+		{"name": "Thermal Shirt", "materials": ["merino wool","thermal knit","cotton blend","synthetic insulation","bamboo blend","fleece-lined","wool","silk blend","ribbed cotton","hemp blend"]},
+		{"name": "Chemise", "materials": ["linen","cotton","silk","muslin","broderie anglaise","cambric","broadcloth","chiffon","lace trim","light wool"]},
+		{"name": "Shapewear", "materials": ["elastic blend","synthetic stretch","latex-lined","cotton-lined","reinforced mesh","microfiber","nylon","spandex","polyester","breathable mesh"]}
+	],
+	"underwear_bottom": [
+		{"name": "Nothing", "materials": ["none","cotton","linen","silk","lace","synthetic","jersey","bamboo fabric","thermal wool","modal"]},
+		{"name": "Underpants", "materials": ["cotton","linen","silk","lace","synthetic","modal","bamboo","jersey","microfiber","elastic blend"]},
+		{"name": "Loincloth", "materials": ["linen","cotton","leather","woven cloth","silk","barkcloth","canvas","suede","embroidered cloth","tanned hide"]},
+		{"name": "Boxers", "materials": ["cotton","linen","jersey","silk","synthetic","modal","bamboo","ribbed cotton","microfiber","polyester"]},
+		{"name": "Briefs", "materials": ["cotton","silk","microfiber","synthetic","modal","bamboo","lace trim","elastic blend","linen","nylon"]},
+		{"name": "Thong", "materials": ["cotton","lace","silk","synthetic","microfiber","elastic blend","mesh","satin","bamboo","nylon"]},
+		{"name": "Bloomers", "materials": ["linen","cotton","muslin","silk","lace","broadcloth","embossed cotton","voile","chiffon","thermal cotton"]},
+		{"name": "Panties", "materials": ["cotton","lace","silk","microfiber","synthetic","modal","bamboo","elastic blend","embroidered cotton","nylon"]},
+		{"name": "Long Underwear", "materials": ["thermal wool","merino wool","cotton blend","synthetic insulation","flannel","bamboo blend","fleece-lined","silk blend","ribbed cotton","hemp blend"]},
+		{"name": "Riding Chaps", "materials": ["leather","reinforced leather","studded leather","suede","waxed leather","treated hide","canvas-backed leather","lined leather","embossed leather","reinforced hide"]}
+	],
+	"colors": [
+		"white",
+		"black",
+		"gray",
+		"red",
+		"blue",
+		"green",
+		"brown",
+		"beige",
+		"yellow",
+		"orange",
+		"purple",
+		"pink",
+		"teal",
+		"maroon",
+		"navy",
+		"olive",
+		"cream",
+		"gold",
+		"silver",
+		"turquoise"
+	],
+	"sizes": [
+		"very small",
+		"small",
+		"fitted",
+		"regular",
+		"loose",
+		"large",
+		"extra large"
+	]
+}
+
