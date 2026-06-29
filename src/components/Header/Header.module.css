@@ -1,0 +1,59 @@
+.Header {
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+
+    width: 90%;
+    height: 80px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.HeaderContent {
+    display: flex;
+    flex-direction: row;
+
+    width: 100%;
+
+
+    align-items: center;
+    justify-content: space-between;
+}
+
+.AppTitle {
+    font-size: 24px;
+    font-weight: bold;
+
+    color: #fbfbfb;
+}
+
+.Version {
+    font-size: 12px;
+    color: #ffffff30;
+}
+
+.Links {
+    display: flex;
+    flex-direction: row;
+
+    justify-content: center;
+    align-items: center;
+
+    gap: 10px;
+}
+
+.Links > a {
+    font-size: 12px;
+    text-decoration: none;
+    
+    color: #911bd6;
+}
+
+.Links > a:hover {
+    color: white;
+}
